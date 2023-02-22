@@ -1,8 +1,8 @@
-[![Docker Image CI](https://github.com/mattgalbraith/hisat2-docker-singularity/actions/workflows/docker-image.yml/badge.svg)](https://github.com/mattgalbraith/hisat2-singularity/actions/workflows/docker-image.yml)
+[![Docker Image CI](https://github.com/mattgalbraith/hisat2-docker-singularity/actions/workflows/docker-image.yml/badge.svg)](https://github.com/mattgalbraith/hisat2-docker-singularity/actions/workflows/docker-image.yml)
 
 # hisat2-docker-singularity
 
-## Build Docker container for HISAT@ and (optionally) convert to Apptainer/Singularity.  
+## Build Docker container for HISAT2 and (optionally) convert to Apptainer/Singularity.  
 
 HISAT2 is a fast and sensitive alignment program for mapping next-generation sequencing reads (both DNA and RNA) to a population of human genomes as well as to a single reference genome.  
   
